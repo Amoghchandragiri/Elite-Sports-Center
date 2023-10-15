@@ -1,6 +1,11 @@
 # Elite-Sports-Center
 Explore our wide range of indoor and outdoor sports activities and you can select your preferred choice of sports activities whose description is given in the upcoming pages.
-![image](https://github.com/Amoghchandragiri/Elite-Sports-Center/assets/100022324/5f3f0294-15d0-4654-a332-0f8876d65e83)
-![image](https://github.com/Amoghchandragiri/Elite-Sports-Center/assets/100022324/fbd2c1c1-a3f3-41d4-9841-2a447d4dec3f)
+I am open to any changes made in my project and would like to invite all of you to collaborate with me and introduce some cool changes which would make the website make more responsive and dynamic in nature. You can clone this repository on github by following the below command:-
+
+git clone https://github.com/Amoghchandragiri/Elite-Sports-Center.git
+
+This website consists of only 1 page made using HTML and CSS and is static in nature. It contains services offered by the Sports Club and detailed description of each service. It also contains a feedback mechanism to address the queries of customers.
+
+INDOOR SPORTS:-
 
 
