@@ -6,6 +6,6 @@ git clone https://github.com/Amoghchandragiri/Elite-Sports-Center.git
 
 This website consists of only 1 page made using HTML and CSS and is static in nature. It contains services offered by the Sports Club and detailed description of each service. It also contains a feedback mechanism to address the queries of customers.
 
-INDOOR SPORTS:-
+
 
 
