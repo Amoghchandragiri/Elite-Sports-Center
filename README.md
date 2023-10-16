@@ -13,6 +13,18 @@ I am open to any changes made in my project and would like to invite all of you 
 git clone https://github.com/Amoghchandragiri/Elite-Sports-Center.git
 ```
 
+Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
+
+```
+git add .
+```
+```
+git commit -m <"Initial commit">
+```
+```
+git push origin master
+```
+
 
 
 
