@@ -6,7 +6,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 https://hacktoberfest.digitalocean.com/
 ```
 ## Project Description
-Explore our wide range of indoor and outdoor sports activities and you can select your preferred choice of sports activities whose description is given in the upcoming pages.
+Explore our wide range of indoor and outdoor sports activities and you can select your preferred choice of sports activities whose description is given in the upcoming pages. A feedback form has been created to get an idea about how the customers perceive our Sports center and to address their issues.
 I am open to any changes made in my project and would like to invite all of you to collaborate with me and introduce some cool changes which would make the website make more responsive and dynamic in nature. You can clone this repository on github by following the below command:-
 
 ```
