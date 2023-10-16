@@ -24,6 +24,11 @@ git commit -m <"Initial commit">
 ```
 git push origin master
 ```
+Project has been deployed using Github pages by following link:- 
+
+```
+ https://amoghchandragiri.github.io/Elite-Sports-Center/
+```
 
 
 
