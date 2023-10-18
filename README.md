@@ -13,17 +13,23 @@ I am open to any changes made in my project and would like to invite all of you 
 git clone https://github.com/Amoghchandragiri/Elite-Sports-Center.git
 ```
 
-Now you can make your changes and then add them and do a commit and finally push to remote branch; say you are on master.
+- Create a branch
+
+``` 
+git checkout -b "<your_branch_name>"
+```
+
+- Make your changes
+- Commit and push
 
 ```
 git add .
+git commit -m 'Commit message'
+git push origin <your_branch_name>
 ```
-```
-git commit -m <"Initial commit">
-```
-```
-git push origin master
-```
+- Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+- Wait for your PR review and merge approval
+  
 Project has been deployed using Github pages by following link:- 
 
 ```
